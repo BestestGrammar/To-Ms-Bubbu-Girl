@@ -55,15 +55,15 @@
 */
 const messages = [
     "Are you sure?",
-    "Really sure??",
+    "Pakka?",
     "Are you positive?",
     "Bubbu please...",
     "Mahak aisa mat kar...",
     "Mat kar na...",
     "I will be very sad...",
-    "I will be very very very sad...",
+    "So you don't love me",
     "Theek hai bye...",
-    "Just kidding, say yes please! ❤️"
+    "😔😔"
 ];
 
 let messageIndex = 0;
