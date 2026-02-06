@@ -54,9 +54,9 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "Acha ji",
     "Pakka?",
-    "Are you positive?",
+    "Are you sure?",
     "Bubbu please...",
     "Mahak aisa mat kar...",
     "Mat kar na...",
